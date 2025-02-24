@@ -40,10 +40,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Chumbita/Chumbita/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h2 align="left">Contact me:</h2>
 
 ###
